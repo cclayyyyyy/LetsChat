@@ -1,6 +1,6 @@
 **Frontend** 
 
-npm run dev/n
+npm run dev
 
 **Backend** 
 
